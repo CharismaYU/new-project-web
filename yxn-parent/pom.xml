@@ -499,17 +499,4 @@
             </plugins>
         </pluginManagement>
     </build>
-
-    <!-- 开发者信息 -->
-    <developers>
-        <developer>
-            <name>YuXueNan</name>
-            <id>xuenan.Yu</id>
-            <email>yxnsyq@163.com</email>
-            <roles>
-                <role>Developer</role>
-            </roles>
-            <timezone>+8</timezone>
-        </developer>
-    </developers>
 </project>
